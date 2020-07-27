@@ -1,8 +1,6 @@
 [![Charly's github stats](https://github-readme-stats.vercel.app/api?username=CharlyMannion&hide=stars,issues,contribs&show_icons=true&theme=cobalt)](https://github.com/CharlyMannion/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=github-readme-stats&show_owner=true)](https://github.com/CharlyMannion/github-readme-stats)
-
 ## Contact Me
 
 <p align="center">
@@ -17,3 +15,7 @@
 <img src="https://cdn2.iconfinder.com/data/icons/identificon/96/cv-512.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 </p>
+
+## Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=github-readme-stats&show_owner=true)](https://github.com/CharlyMannion/github-readme-stats)

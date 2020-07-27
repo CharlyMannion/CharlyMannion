@@ -14,3 +14,5 @@
 <img src="https://cdn2.iconfinder.com/data/icons/identificon/96/cv-512.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=github-readme-stats)](https://github.com/CharlyMannion/github-readme-stats)

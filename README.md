@@ -1,6 +1,6 @@
-[![Charly's github stats](https://github-readme-stats.vercel.app/api?username=CharlyMannion&hide=stars,issues,contribs&show_icons=true&theme=cobalt)](https://github.com/CharlyMannion/github-readme-stats)
+[![Charly's github stats](https://github-readme-stats.vercel.app/api?username=CharlyMannion&hide=stars,issues,contribs&show_icons=true&theme=buefy)](https://github.com/CharlyMannion/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyMannion&theme=cobalt&hide=HTML,CSS)](https://github.com/CharlyMannion/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyMannion&theme=buefy&hide=HTML,CSS)](https://github.com/CharlyMannion/github-readme-stats)
 
 
 ## Contact Me
@@ -20,4 +20,4 @@
 
 ## Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=github-readme-stats&show_owner=true&theme=cobalt)](https://github.com/CharlyMannion/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=github-readme-stats&show_owner=true&theme=buefy)](https://github.com/CharlyMannion/github-readme-stats)

@@ -20,4 +20,5 @@
 
 ## Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=github-readme-stats&show_owner=true&theme=buefy)](https://github.com/CharlyMannion/github-readme-stats)
+[![Github CB](https://github.com/CharlyMannion/CMannion_CV)
+[![Github CB](https://github.com/CharlyMannion/CMannion_CV)

@@ -20,5 +20,5 @@
 
 ## Repositories
 
-[![Github CB](https://github.com/CharlyMannion/CMannion_CV)
-[![Github CB](https://github.com/CharlyMannion/CMannion_CV)
+[![Github CB](https://github.com/CharlyMannion/CMannion_CV)]
+[![Github CB](https://github.com/CharlyMannion/CMannion_CV)]

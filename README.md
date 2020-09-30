@@ -1,6 +1,6 @@
 [![Charly's github stats](https://github-readme-stats.vercel.app/api?username=CharlyMannion&hide=stars,issues,contribs&show_icons=true&theme=buefy)](https://github.com/CharlyMannion/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyMannion&theme=buefy&hide=HTML,CSS)](https://github.com/CharlyMannion/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyMannion&theme=buefy)](https://github.com/CharlyMannion/github-readme-stats)
 
 
 ## Contact Me

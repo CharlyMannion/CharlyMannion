@@ -17,10 +17,3 @@
 <img src="https://cdn2.iconfinder.com/data/icons/identificon/96/cv-512.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 </p>
-
-## Repositories
-
-[![Github CV](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=CMannion_CV&show_owner=true&theme=buefy)](https://github.com/CharlyMannion/CMannion_CV)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=portfolio-website&show_owner=true&theme=buefy)](https://github.com/CharlyMannion/portfolio-website)
-[![andSiblings](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=andSiblings&show_owner=true&theme=buefy)](https://github.com/CharlyMannion/andSiblings)
-[![Airport](https://github-readme-stats.vercel.app/api/pin/?username=CharlyMannion&repo=airport_solo&show_owner=true&theme=buefy)](https://github.com/CharlyMannion/airport_solo) 
